@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "/",
+    "public": "gh-pages",
     "ignore": [
       "firebase.json",
       "**/.*",
