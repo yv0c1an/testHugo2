@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>心情物语 on My New Hugo Site</title><link>http://example.org/categories/%E5%BF%83%E6%83%85%E7%89%A9%E8%AF%AD/</link><description>Recent content in 心情物语 on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/%E5%BF%83%E6%83%85%E7%89%A9%E8%AF%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>消息系统设计与实现「上篇」</title><link>http://example.org/posts/my-first-post/</link><pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate><guid>http://example.org/posts/my-first-post/</guid><description>产品分析 首先我们来看一下市场上关于消息的实现是怎么样的。
-简书 简书的消息系统主要分了两种
+简书 简书的消息系统主要分了两种消息系统设计与实现「上篇」消息系统设计与实现「上篇」消息系统设计与实现「上篇」消息系统设计与实现「上篇」
 简信 提醒 简信 简信的性质其实跟私信是一样的，是用户发送给用户的一则消息，有具体的信息内容。
 提醒 而提醒，则是系统发送的一则消息，其文案格式是固定的，并且对特殊对象一般拥有超链接。 知乎 知乎跟简书一样，主要分了两种：
 私信 消息 私信 跟简书一样，使用户发送给用户的一则消息，也可以是管理员发送给用户的消息。
