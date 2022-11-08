@@ -29,7 +29,7 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SOGIRLE }}'
-#           channelId: hugo-test-90a5e
+          channelId: hugo-test-90a5e2
           projectId: sogirle
 #         uses: peaceiris/actions-gh-pages@v3
 #         if: github.ref == 'refs/heads/main'
